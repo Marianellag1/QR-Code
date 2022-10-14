@@ -1,0 +1,43 @@
+*{
+    background: #d5e1ef;
+}
+
+.card-body,
+.card-title,
+.card-text {
+    background-color: white;
+    text-align: center;
+}
+
+.card-title {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+}
+
+.card-text {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 200;
+    color:hsl(220, 15%, 55%) ;
+}
+
+.card-img-top {
+    padding: 10px;
+    background: white;
+}
+
+.first {
+    font-weight: 700;
+}
+
+.second {
+    font-weight: 400;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}

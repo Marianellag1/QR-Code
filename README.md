@@ -1,4 +1,5 @@
-# QR-Code
+# QR-Code live link: https://marianellag1.github.io/QR-Code/
+
 
 [![Licence](http://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -16,6 +17,7 @@
 
 
 ---
+![image](https://user-images.githubusercontent.com/110939445/195956881-00ae5364-476a-42f2-8cc9-08c799d9ac90.png)
 
 ## **Description of the Project**
 This mini-project is just for myself to practice CSS, with the help of bootstrap, and just feel more confident with CSS.
